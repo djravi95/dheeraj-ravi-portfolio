@@ -1,0 +1,9 @@
+.git
+.gitignore
+.vercel
+.DS_Store
+node_modules
+.chrome-tmp
+.cache
+.local-share
+.config
